@@ -2,8 +2,10 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>
-      <p></p>
+    <div className='footer'>
+      <p>Designed and Developed By</p>
+      <hr />
+      <p>Siva Dasari</p>
     </div>
   )
 }

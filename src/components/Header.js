@@ -4,7 +4,7 @@ import { FaBars } from 'react-icons/fa';
 
 const Header = () => {
   return (
-    <div>
+    <div className="header">
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">

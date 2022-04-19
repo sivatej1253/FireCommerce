@@ -8,3 +8,25 @@
 .nav-link{
     color: #fff !important;
 }
+
+.content{
+    padding-top: 80px;
+}
+.footer{
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-color: #003f5c;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
